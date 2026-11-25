@@ -96,10 +96,10 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
 ### GitHub Telemetry
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanesh686-m&show_icons=true&bg_color=050505&title_color=22c55e&icon_color=22c55e&text_color=e2e8f0&border_color=14532d&hide_border=false" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanesh686-m&layout=compact&bg_color=050505&title_color=22c55e&text_color=e2e8f0&border_color=14532d" alt="Top Languages" />
+  <img height="175" src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img height="175" src="./assets/top-langs.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanesh686-m&background=050505&border=14532d&stroke=14532d&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="GitHub Streak" />
+  <img src="./assets/github-streak.svg" alt="GitHub Streak" />
 </div>

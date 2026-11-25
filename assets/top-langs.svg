@@ -1,0 +1,9 @@
+<svg width="390" height="195" viewBox="0 0 390 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="389" height="194" rx="10" fill="#050505" stroke="#14532d"/>
+  <text x="24" y="34" fill="#22c55e" font-size="15" font-weight="700" font-family="Segoe UI, Ubuntu, sans-serif">Most Used Languages (All Repos)</text>
+  <clipPath id="bar-clip"><rect x="24" y="54" width="342" height="9" rx="4.5"/></clipPath>
+  <g clip-path="url(#bar-clip)">
+    <rect x="24.0" y="54" width="136.8" height="9" fill="#3572A5"/><rect x="160.8" y="54" width="102.6" height="9" fill="#f34b7d"/><rect x="263.4" y="54" width="51.3" height="9" fill="#555555"/><rect x="314.7" y="54" width="51.3" height="9" fill="#e34c26"/>
+  </g>
+  <circle cx="29" cy="86" r="5" fill="#3572A5"/><text x="40" y="90" fill="#e2e8f0" font-size="12" font-family="Segoe UI, Ubuntu, sans-serif">Python <tspan fill="#94a3b8" font-family="Consolas, monospace">40.0%</tspan></text><circle cx="205" cy="86" r="5" fill="#f34b7d"/><text x="216" y="90" fill="#e2e8f0" font-size="12" font-family="Segoe UI, Ubuntu, sans-serif">C++ / QML <tspan fill="#94a3b8" font-family="Consolas, monospace">30.0%</tspan></text><circle cx="29" cy="114" r="5" fill="#555555"/><text x="40" y="118" fill="#e2e8f0" font-size="12" font-family="Segoe UI, Ubuntu, sans-serif">C <tspan fill="#94a3b8" font-family="Consolas, monospace">15.0%</tspan></text><circle cx="205" cy="114" r="5" fill="#e34c26"/><text x="216" y="118" fill="#e2e8f0" font-size="12" font-family="Segoe UI, Ubuntu, sans-serif">HTML / JS <tspan fill="#94a3b8" font-family="Consolas, monospace">15.0%</tspan></text>
+</svg>
