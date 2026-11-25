@@ -21,7 +21,7 @@
 ```yaml
 operator: "Dhanesh Maheshwari"
 location: "Kota, Rajasthan, India"
-current_role: "Graduate Engineer Trainee (GET) @ Allied Medical Limited"
+current_role: "Junior Engineer @ Allied Medical Limited (Jul 2026 - Present)"
 focus:
   - "Offensive Security & Automated Penetration Testing"
   - "Embedded Linux (Yocto / Poky), Raspberry Pi 4 CM, RK3568V2 & CAN-FD Systems"
