@@ -24,7 +24,7 @@ location: "Kota, Rajasthan, India"
 current_role: "Junior Engineer @ Allied Medical Limited (Jul 2026 - Present)"
 focus:
   - "Offensive Security & Automated Penetration Testing"
-  - "Embedded Linux (Yocto / Poky), Raspberry Pi 4 CM, RK3568V2 & CAN-FD Systems"
+  - "Embedded Linux (Yocto / Poky), Raspberry Pi 4 CM, Firefly ROC-RK3568-PC (Rockchip RK3568) & CAN-FD Systems"
   - "Qt 6 / QML & Modern C++20 Embedded UI Engineering"
   - "Edge AI, Computer Vision (YOLOv8 / MediaPipe) & Cyber Digital Twins"
 cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
@@ -51,7 +51,7 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
       <img src="https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
       <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Qt_6_%2F_QML-41CD52?style=flat-square&logo=qt&logoColor=white" />
-      <img src="https://img.shields.io/badge/RK3568V2-0F172A?style=flat-square&logo=arm&logoColor=22C55E" />
+      <img src="https://img.shields.io/badge/Firefly_ROC--RK3568--PC_(Rockchip_RK3568)-0F172A?style=flat-square&logo=arm&logoColor=22C55E" />
       <img src="https://img.shields.io/badge/Arduino_%2F_ESP32-00979D?style=flat-square&logo=arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/CAN--FD-1E293B?style=flat-square" />
     </td>
@@ -83,7 +83,7 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
 
 | Project | Domain | Architecture &amp; Highlights | Status |
 | :--- | :--- | :--- | :--- |
-| **Anesthesia Workstation + Custom Yocto Image** | Medical Embedded | Qt 6 / QML + C++20 touchscreen UI, live waveforms, CAN-FD transport &amp; custom Yocto Linux image (RK3568V2) | In Progress |
+| **Anesthesia Workstation + Custom Yocto Image** | Medical Embedded | Qt 6 / QML + C++20 touchscreen UI, live waveforms, CAN-FD transport &amp; custom Yocto Linux image (Firefly ROC-RK3568-PC / Rockchip RK3568) | In Progress |
 | **Custom Yocto OS &amp; Ventilator Flow Meter** | Embedded Linux | Custom Yocto/Poky Linux images + Raspberry Pi 4 CM deployment for medical hardware | Production / Work |
 | **FlipperZero Clone (`AEGIS-RF`)** | Offensive / RF Sec | Flask + SocketIO + Scapy + Bleak + BadUSB + Evil Portal *(upgrading with Kaggle RF Classifier)* | Active / Upgrading |
 | **AstraFlow (`AI Traffic + Hand Gesture`)** | CV + MARL | YOLOv8 + MediaPipe + Fuzzy Logic *(upgrading to Eclipse SUMO Multi-Agent RL + Three.js 3D Holo-Twin)* | Active / Upgrading |
