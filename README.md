@@ -86,7 +86,7 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
 | **Anesthesia Workstation + Custom Yocto Image** | Medical Embedded | Qt 6 / QML + C++20 touchscreen UI, live waveforms, CAN-FD transport &amp; custom Yocto Linux image (Firefly ROC-RK3568-PC / Rockchip RK3568) | In Progress |
 | **Custom Yocto OS &amp; Ventilator Flow Meter** | Embedded Linux | Custom Yocto/Poky Linux images + Raspberry Pi 4 CM deployment for medical hardware | Production / Work |
 | **FlipperZero Clone (`AEGIS-RF`)** | Offensive / RF Sec | Flask + SocketIO + Scapy + Bleak + BadUSB + Evil Portal *(upgrading with Kaggle RF Classifier)* | Active / Upgrading |
-| **[AstraFlow](https://dhanesh686-m-astraflow.hf.space) (`AI Traffic + Hand Gesture`)** | CV + MARL | Kaggle PPO (`INT8 ONNX` via `onnxruntime-web`) + Three.js 3D Holo-Twin + MediaPipe Hands | [Live Demo](https://dhanesh686-m-astraflow.hf.space) |
+| **[AstraFlow](https://dhanesh686-m-astraflow.static.hf.space) (`AI Traffic + Hand Gesture`)** | CV + MARL | Kaggle PPO (`INT8 ONNX` via `onnxruntime-web`) + Three.js 3D Holo-Twin + MediaPipe Hands | [Live Demo](https://dhanesh686-m-astraflow.static.hf.space) |
 | **Secure File Sharing (`ZK-STEGANO`)** | Cryptography | Flask + Fernet per-file keys + expiry limits *(upgrading to WebCrypto + Post-Quantum P2P)* | Active / Upgrading |
 | **Automated Pen-Testing &amp; Recon Suite** | Cybersecurity | Python GUI automating Nmap, Nikto, Metasploit &amp; downloadable vulnerability reports | Completed |
 | **Ghost-Firmware Lab (`N1`)** | Embedded Security | QEMU ARM64 + Virtual CAN-FD Bus + Transformer Syscall Anomaly Detector on HF Spaces | Roadmap |
