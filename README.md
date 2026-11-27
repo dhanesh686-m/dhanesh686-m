@@ -87,6 +87,7 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
 | **Custom Yocto OS &amp; Ventilator Flow Meter** | Embedded Linux | Custom Yocto/Poky Linux images + Raspberry Pi 4 CM deployment for medical hardware | Production / Work |
 | **FlipperZero Clone (`AEGIS-RF`)** | Offensive / RF Sec | Flask + SocketIO + Scapy + Bleak + BadUSB + Evil Portal *(upgrading with Kaggle RF Classifier)* | Active / Upgrading |
 | **[AstraFlow](https://dhanesh686-m-astraflow.static.hf.space) (`AI Traffic + Hand Gesture`)** | CV + MARL | Kaggle PPO (`INT8 ONNX` via `onnxruntime-web`) + Three.js 3D Holo-Twin + MediaPipe Hands | [Live Demo](https://dhanesh686-m-astraflow.static.hf.space) |
+| **[SKILL-FORGE AI](https://dhanesh686-m-skill-forge.static.hf.space) (`Job Board + ATS Suite`)** | Full-Stack / AI | RBAC Candidate/Recruiter/Admin consoles + Semantic ATS Matcher + FastAPI OTP Auth (with Forgot Password) &amp; Event-Driven SMTP Mail Server | [Live Demo](https://dhanesh686-m-skill-forge.static.hf.space) |
 | **Secure File Sharing (`ZK-STEGANO`)** | Cryptography | Flask + Fernet per-file keys + expiry limits *(upgrading to WebCrypto + Post-Quantum P2P)* | Active / Upgrading |
 | **Automated Pen-Testing &amp; Recon Suite** | Cybersecurity | Python GUI automating Nmap, Nikto, Metasploit &amp; downloadable vulnerability reports | Completed |
 | **Ghost-Firmware Lab (`N1`)** | Embedded Security | QEMU ARM64 + Virtual CAN-FD Bus + Transformer Syscall Anomaly Detector on HF Spaces | Roadmap |
