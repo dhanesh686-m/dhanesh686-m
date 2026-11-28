@@ -20,7 +20,7 @@
 
 ```yaml
 operator: "Dhanesh Maheshwari"
-location: "Kota, Rajasthan, India"
+location: "Bhiwadi, Rajasthan, India"
 current_role: "Junior Engineer @ Allied Medical Limited (Jul 2026 - Present)"
 focus:
   - "Offensive Security & Automated Penetration Testing"
