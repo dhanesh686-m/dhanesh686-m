@@ -61,6 +61,7 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Spaces"
       <img src="https://img.shields.io/badge/Arduino_IDE_%2F_ESP32-00979D?style=flat-square&logo=arduino&logoColor=white" />
       <img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square" />
       <img src="https://img.shields.io/badge/CAN--FD-1E293B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Linux_evdev_Driver_(C%2FC%2B%2B)-0F172A?style=flat-square&logo=linux&logoColor=22C55E" />
     </td>
   </tr>
   <tr>
@@ -96,7 +97,7 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Spaces"
       <img src="https://img.shields.io/badge/Google_Cloud_Shell-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
       <img src="https://img.shields.io/badge/Apache_%2F_Samba_%2F_Windows_Server-D22128?style=flat-square&logo=apache&logoColor=white" />
-      <img src="https://img.shields.io/badge/Epicor_%2F_Zoho_CRM-1E293B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Epicor_%2F_Frappe_%2F_Zoho_CRM-1E293B?style=flat-square" />
       <img src="https://img.shields.io/badge/Antigravity-22C55E?style=flat-square" />
     </td>
     <td valign="top" width="50%">
@@ -118,6 +119,7 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Spaces"
 | :--- | :--- | :--- | :--- |
 | **Anesthesia Workstation + Custom Yocto Image** | Medical Embedded | **V-Model:** Qt 6 / QML + C++ (14/17/20/23) touchscreen UI, live waveforms, CAN-FD transport &amp; custom Yocto Linux image (Firefly ROC-RK3568-PC / Rockchip RK3568) | In Progress |
 | **Custom Yocto OS &amp; Ventilator Flow Meter** | Embedded Linux | **V-Model:** Custom Yocto/Poky Linux images + Raspberry Pi 4 CM deployment for medical hardware | Production / Work |
+| **Mechanical Rotary Encoder Input Driver** | Embedded Driver | **V-Model:** C/C++ Linux `evdev` kernel/user-space driver mapping right turn -> `Tab`, left turn -> `Shift+Tab`, click -> `Enter` for Qt 6 embedded UI navigation | Production / Work |
 | **FlipperZero Clone (`AEGIS-RF`)** | Offensive / RF Sec | **Iterative DevSecOps:** Flask + SocketIO + Scapy + Bleak + BadUSB + Evil Portal *(upgrading with Kaggle RF Classifier)* | Active / Upgrading |
 | **[AstraFlow](https://dhanesh686-m-astraflow.static.hf.space) (`AI Traffic + Hand Gesture`)** | CV + MARL | **Agile:** Kaggle PPO (`INT8 ONNX` via `onnxruntime-web`) + Three.js 3D Holo-Twin + MediaPipe Hands | [Live Demo](https://dhanesh686-m-astraflow.static.hf.space) |
 | **[SKILL-FORGE AI](https://dhanesh686-m-skill-forge.static.hf.space) (`Job Board + ATS Suite`)** | Full-Stack / AI | **Agile / Scrum:** RBAC Candidate/Recruiter/Admin consoles + Semantic ATS Matcher + FastAPI OTP Auth (with Forgot Password) &amp; Event-Driven SMTP Mail Server | [Live Demo](https://dhanesh686-m-skill-forge.static.hf.space) |
