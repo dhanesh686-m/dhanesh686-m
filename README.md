@@ -25,9 +25,13 @@ current_role: "Junior Engineer @ Allied Medical Limited (Jul 2026 - Present)"
 focus:
   - "Offensive Security & Automated Penetration Testing"
   - "Embedded Linux (Yocto / Poky), Raspberry Pi 4 CM, Firefly ROC-RK3568-PC (Rockchip RK3568) & CAN-FD Systems"
-  - "Qt 6 / QML & Modern C++20 Embedded UI Engineering"
+  - "GUI Developer (Qt 6 / QML, PyQt / PySide) & Modern C++ (14 / 17 / 20 / 23)"
   - "Edge AI, Computer Vision (YOLOv8 / MediaPipe) & Cyber Digital Twins"
-cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
+methodologies:
+  - "V-Model (Medical Embedded)"
+  - "Agile / Scrum (Full-Stack & Edge AI)"
+  - "Iterative DevSecOps SDLC"
+cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Spaces"
 ```
 
 ---
@@ -46,13 +50,16 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
       <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white" />
     </td>
     <td valign="top" width="50%">
-      <h4>Embedded Systems &amp; Firmware</h4>
+      <h4>Embedded Systems, C++ &amp; GUI</h4>
       <img src="https://img.shields.io/badge/Yocto_Project-7B42BC?style=flat-square&logo=linux&logoColor=white" />
       <img src="https://img.shields.io/badge/Raspberry_Pi_4-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B_(14%2F17%2F20%2F23)-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Qt_6_%2F_QML-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyQt_%2F_PySide-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/GUI_Developer-22C55E?style=flat-square" />
       <img src="https://img.shields.io/badge/Firefly_ROC--RK3568--PC_(Rockchip_RK3568)-0F172A?style=flat-square&logo=arm&logoColor=22C55E" />
-      <img src="https://img.shields.io/badge/Arduino_%2F_ESP32-00979D?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/Arduino_IDE_%2F_ESP32-00979D?style=flat-square&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/Xilinx-E01F27?style=flat-square" />
       <img src="https://img.shields.io/badge/CAN--FD-1E293B?style=flat-square" />
     </td>
   </tr>
@@ -75,6 +82,32 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
       <img src="https://img.shields.io/badge/HF_Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=050505" />
     </td>
   </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>Tools, IDEs &amp; Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Qt_Creator-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git_%2F_GitLab_%2F_GitHub-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS_CLI-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud_Shell-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" />
+      <img src="https://img.shields.io/badge/Apache_%2F_Samba_%2F_Windows_Server-D22128?style=flat-square&logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/Epicor_%2F_Zoho_CRM-1E293B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Antigravity-22C55E?style=flat-square" />
+    </td>
+    <td valign="top" width="50%">
+      <h4>Project Management &amp; Methodologies</h4>
+      <img src="https://img.shields.io/badge/OpenProject-1A67A3?style=flat-square" />
+      <img src="https://img.shields.io/badge/GitLab_Boards-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/V--Model_(Medical_V%26V)-22C55E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Agile_%2F_Scrum-0EA5E9?style=flat-square" />
+      <img src="https://img.shields.io/badge/Iterative_DevSecOps_SDLC-8B5CF6?style=flat-square" />
+    </td>
+  </tr>
 </table>
 
 ---
@@ -83,11 +116,11 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Docker Spaces"
 
 | Project | Domain | Architecture &amp; Highlights | Status |
 | :--- | :--- | :--- | :--- |
-| **Anesthesia Workstation + Custom Yocto Image** | Medical Embedded | Qt 6 / QML + C++20 touchscreen UI, live waveforms, CAN-FD transport &amp; custom Yocto Linux image (Firefly ROC-RK3568-PC / Rockchip RK3568) | In Progress |
-| **Custom Yocto OS &amp; Ventilator Flow Meter** | Embedded Linux | Custom Yocto/Poky Linux images + Raspberry Pi 4 CM deployment for medical hardware | Production / Work |
-| **FlipperZero Clone (`AEGIS-RF`)** | Offensive / RF Sec | Flask + SocketIO + Scapy + Bleak + BadUSB + Evil Portal *(upgrading with Kaggle RF Classifier)* | Active / Upgrading |
-| **[AstraFlow](https://dhanesh686-m-astraflow.static.hf.space) (`AI Traffic + Hand Gesture`)** | CV + MARL | Kaggle PPO (`INT8 ONNX` via `onnxruntime-web`) + Three.js 3D Holo-Twin + MediaPipe Hands | [Live Demo](https://dhanesh686-m-astraflow.static.hf.space) |
-| **[SKILL-FORGE AI](https://dhanesh686-m-skill-forge.static.hf.space) (`Job Board + ATS Suite`)** | Full-Stack / AI | RBAC Candidate/Recruiter/Admin consoles + Semantic ATS Matcher + FastAPI OTP Auth (with Forgot Password) &amp; Event-Driven SMTP Mail Server | [Live Demo](https://dhanesh686-m-skill-forge.static.hf.space) |
+| **Anesthesia Workstation + Custom Yocto Image** | Medical Embedded | **V-Model:** Qt 6 / QML + C++ (14/17/20/23) touchscreen UI, live waveforms, CAN-FD transport &amp; custom Yocto Linux image (Firefly ROC-RK3568-PC / Rockchip RK3568) | In Progress |
+| **Custom Yocto OS &amp; Ventilator Flow Meter** | Embedded Linux | **V-Model:** Custom Yocto/Poky Linux images + Raspberry Pi 4 CM deployment for medical hardware | Production / Work |
+| **FlipperZero Clone (`AEGIS-RF`)** | Offensive / RF Sec | **Iterative DevSecOps:** Flask + SocketIO + Scapy + Bleak + BadUSB + Evil Portal *(upgrading with Kaggle RF Classifier)* | Active / Upgrading |
+| **[AstraFlow](https://dhanesh686-m-astraflow.static.hf.space) (`AI Traffic + Hand Gesture`)** | CV + MARL | **Agile:** Kaggle PPO (`INT8 ONNX` via `onnxruntime-web`) + Three.js 3D Holo-Twin + MediaPipe Hands | [Live Demo](https://dhanesh686-m-astraflow.static.hf.space) |
+| **[SKILL-FORGE AI](https://dhanesh686-m-skill-forge.static.hf.space) (`Job Board + ATS Suite`)** | Full-Stack / AI | **Agile / Scrum:** RBAC Candidate/Recruiter/Admin consoles + Semantic ATS Matcher + FastAPI OTP Auth (with Forgot Password) &amp; Event-Driven SMTP Mail Server | [Live Demo](https://dhanesh686-m-skill-forge.static.hf.space) |
 | **Secure File Sharing (`ZK-STEGANO`)** | Cryptography | Flask + Fernet per-file keys + expiry limits *(upgrading to WebCrypto + Post-Quantum P2P)* | Active / Upgrading |
 | **Automated Pen-Testing &amp; Recon Suite** | Cybersecurity | Python GUI automating Nmap, Nikto, Metasploit &amp; downloadable vulnerability reports | Completed |
 | **Ghost-Firmware Lab (`N1`)** | Embedded Security | QEMU ARM64 + Virtual CAN-FD Bus + Transformer Syscall Anomaly Detector on HF Spaces | Roadmap |
