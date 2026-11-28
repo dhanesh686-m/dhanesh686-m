@@ -6,7 +6,7 @@
 </a>
 
 <p>
-  <a href="https://linkedin.com/in/dhanesh-maheshwari-a658b5285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dhanesh686-m/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:maheshwarid299@gmail.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=050505" alt="Email" /></a>
   <a href="https://github.com/dhanesh686-m/Portfolio"><img src="https://img.shields.io/badge/Portfolio_Repo-050505?style=for-the-badge&logo=github&logoColor=22C55E" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=dhanesh686-m&label=Profile+Views&color=22c55e&style=for-the-badge" alt="Profile Views" />
