@@ -117,7 +117,7 @@ cloud_lab_stack: "Kaggle (GPU/TPU) -> INT8 ONNX -> Hugging Face Spaces"
 
 | Project | Domain | Architecture &amp; Highlights | Status |
 | :--- | :--- | :--- | :--- |
-| **Anesthesia Workstation + Custom Yocto Image** | Medical Embedded | **V-Model:** Qt 6 / QML + C++ (14/17/20/23) touchscreen UI, live waveforms, CAN-FD transport &amp; custom Yocto Linux image (Firefly ROC-RK3568-PC / Rockchip RK3568) | In Progress |
+| **Anesthesia Workstation + Custom Yocto Image** | Medical Embedded | **V-Model:** Qt 6 / QML + C++ (14/17/20/23) touchscreen UI, live waveforms, CAN-FD transport, signed/encrypted GitLab Release OTA &amp; USB pendrive updates, QR read-only public-IP screen mirroring, QR/pendrive PDF export &amp; custom Yocto Linux (Firefly ROC-RK3568-PC / RK3568) | In Progress |
 | **Custom Yocto OS &amp; Ventilator Flow Meter** | Embedded Linux | **V-Model:** Custom Yocto/Poky Linux images + Raspberry Pi 4 CM deployment for medical hardware | Production / Work |
 | **Mechanical Rotary Encoder Input Driver** | Embedded Driver | **V-Model:** C/C++ Linux `evdev` kernel/user-space driver mapping right turn -> `Tab`, left turn -> `Shift+Tab`, click -> `Enter` for Qt 6 embedded UI navigation | Production / Work |
 | **FlipperZero Clone (`AEGIS-RF`)** | Offensive / RF Sec | **Iterative DevSecOps:** Flask + SocketIO + Scapy + Bleak + BadUSB + Evil Portal *(upgrading with Kaggle RF Classifier)* | Active / Upgrading |
